@@ -1,4 +1,4 @@
-# Sales-and-Customer-analysis-on-H-M-data
+# Sales-and-Customer-analysis-on-H&M data
 
 In the dataset..... the purchase history of customers across time, along with supporting metadata is provided. 
 
